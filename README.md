@@ -4,8 +4,8 @@ PCA Index Analysis
 
 # Overview
 
-This project provides a framework for constructing a **Principal Component Analysis (PCA) index** using economic data from the Federal Reserve Economic Data (FRED). It includes data preprocessing, PCA computation, and visualization.
-Assignment 4 for Data Science Tools for Finance, by Dr. Jeremy Bejarano
+This project provides a framework for constructing a **Principal Component Analysis (PCA) index** using economic data from the Federal Reserve Economic Data (FRED). It includes data preprocessing, PCA computation, and visualization.  
+Assignment 4 for Data Science Tools for Finance, by Dr. Jeremy Bejarano.
 
 ## 📖 Mathematical Background
 
